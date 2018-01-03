@@ -1,4 +1,6 @@
+
 # Hangman
+
 
 import random
 def hangman(a):
